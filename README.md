@@ -1,2 +1,5 @@
 # EE-OS
-This is my journey on learning the components of a PC, concerning CPU registers, Memory Hierarchy, and Serial Interactions. I plan to build a simple OS to demonstrate the application of C++ and Assembly.
+This project is now evolving to my better understanding of the Risc-V ISA.
+
+I will be developing a general operating system currently, but this shall develop into
+a more practical stance as I familarize myself with Risc-V.
