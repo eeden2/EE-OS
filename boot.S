@@ -8,6 +8,7 @@ welcome: .ascii "EE-OS\n\0"
 .section .text.init
 .global _start
 
+
 _start:
   csrr t0, mhartid
   # branch to write uart to maintain minimal core usage.
