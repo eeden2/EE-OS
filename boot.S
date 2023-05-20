@@ -66,7 +66,6 @@ _write_uart:
   addi a0, a0, 1 
   j _write_uart
   
-
 _write_uart_end:
   ret
 
